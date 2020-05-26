@@ -1,5 +1,5 @@
 def hello_message():
-    pass
+    return "Hello, CIS 189!"
 
 if __name__ == '__main__':
-    print(hello_message())
+    hello_message()
